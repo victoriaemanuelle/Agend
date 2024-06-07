@@ -1,0 +1,21 @@
+h1{ color: white;
+          text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+  text-align: center;
+}
+
+.row{
+display:flex;
+gap: 10px;
+
+ mat-form-field {
+    width:100%;
+}
+}
+
+button{
+    display: flex;
+    width: 50%;
+    gap: 10px;
+    background:white;
+    color: white;
+}

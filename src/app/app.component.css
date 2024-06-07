@@ -1,0 +1,27 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar{
+   background: #FFCCCC;
+   
+   h1{
+    height: 40px;
+    color: white;
+      text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+      font-size: 40px;
+   }
+
+
+mat-icon{
+  height: -9px;
+  padding-right: 10px;
+  color: white;
+        text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+
+}
+}
+
+button{
+  background: white;
+}

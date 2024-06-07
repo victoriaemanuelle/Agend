@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typecode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "marcados": [
+    {
+      "id": "2ee5",
+      "name": "Victoria Emanuelle",
+      "date": "2024-06-03T03:00:00.000Z",
+      "hour": "2222",
+      "email": "vickmanu9@gmail.com",
+      "tel": "+5521965982840"
+    }
+  ]
+}
